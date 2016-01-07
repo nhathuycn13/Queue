@@ -1,9 +1,0 @@
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.exe.config
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.exe
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.pdb
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.frmMain.resources
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.Cache
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.exe
-c:\users\abc\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.pdb
